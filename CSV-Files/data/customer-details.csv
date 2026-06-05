@@ -1,0 +1,6 @@
+Index,Customer Id,First Name,Last Name,Company,City,Country,Phone 1,Phone 2,Email
+1,IND-1001,Akash,Khan,Tata Motors,Delhi,India,+91-85320-61720,+91-75-7757-8928,akash.khan1@example.in
+2,IND-1002,Sumit,Saxena,Bajaj Auto,Visakhapatnam,India,+91-97923-26852,+91-64-5881-3862,sumit.saxena2@example.in
+3,IND-1003,Ojaswi,Vohra,Bajaj Auto,Bengaluru,India,+91-82861-17666,+91-47-5419-5847,ojaswi.vohra3@example.in
+4,IND-1004,Manish,Pandey,TCS,Mumbai,India,+91-72436-92177,+91-49-7005-6463,manish.pandey4@example.in
+5,IND-1005,Megha,Bhatia,ITC Limited,Kolkata,India,+91-75964-72116,+91-34-8561-1954,megha.bhatia5@example.in
