@@ -1,0 +1,10 @@
+Pride and Prejudice,978-0141439518,7.99,Jane Austen,416
+1984,978-0451524935,8.99,George Orwell,328
+The Brothers Karamazov,978-0374528379,20.00,Fyodor Dostoevsky,824
+The Last Tycoon,978-0684801537,14.00,F. Scott Fitzgerald,192
+The Hobbit,978-0547928227,12.50,J.R.R. Tolkien,310
+Demons,978-0679734512,17.00,Fyodor Dostoevsky,768
+Homage to Catalonia,978-0156421171,15.00,George Orwell,232
+Tender Is the Night,978-0684801544,16.00,F. Scott Fitzgerald,352
+Mansfield Park,978-0141439808,8.50,Jane Austen,464
+Persuasion,978-0141439686,7.95,Jane Austen,272

@@ -1,0 +1,25 @@
+Book Name: The Fellowship of the Ring ISBN: 978-0547928210
+Book Name: The Beautiful and Damned ISBN: 978-0684801551
+Book Name: Sense and Sensibility ISBN: 978-0141439662
+Book Name: The Idiot ISBN: 978-0375702921
+Book Name: Burmese Days ISBN: 978-0156148504
+Book Name: The Return of the King ISBN: 978-0547928197
+Book Name: The Great Gatsby ISBN: 978-0743273565
+Book Name: Down and Out in Paris and London ISBN: 978-0156262248
+Book Name: Notes from Underground ISBN: 978-0679734529
+Book Name: Emma ISBN: 978-0141439587
+Book Name: The Two Towers ISBN: 978-0547928203
+Book Name: Animal Farm ISBN: 978-0451526342
+Book Name: The Silmarillion ISBN: 978-0345325815
+Book Name: Crime and Punishment ISBN: 978-0140449136
+Book Name: This Side of Paradise ISBN: 978-0684818733
+Book Name: Pride and Prejudice ISBN: 978-0141439518
+Book Name: 1984 ISBN: 978-0451524935
+Book Name: The Brothers Karamazov ISBN: 978-0374528379
+Book Name: The Last Tycoon ISBN: 978-0684801537
+Book Name: The Hobbit ISBN: 978-0547928227
+Book Name: Demons ISBN: 978-0679734512
+Book Name: Homage to Catalonia ISBN: 978-0156421171
+Book Name: Tender Is the Night ISBN: 978-0684801544
+Book Name: Mansfield Park ISBN: 978-0141439808
+Book Name: Persuasion ISBN: 978-0141439686
